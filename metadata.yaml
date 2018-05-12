@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '40373'
     url: http://www.gutenberg.org/2009/agents/40373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40029#The-Gunpowder-Plot-and-Lord-Mounteagle-s-LetterThirteen-Gunpowder-Conspirators-Including-Guy-_
 gutenberg_issued: '2012-06-18'
 gutenberg_type: Text
 identifiers:
